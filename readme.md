@@ -21,3 +21,9 @@ Remember to put your certificates into the `conf/` folder. And change the certif
 and
 
 ```ssl_certificate certificate.crt;```
+
+# Step 3
+
+Run docker compose:
+
+```docker-compose up nginx```
