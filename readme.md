@@ -1,6 +1,6 @@
 # Naked domain problem
 
-This is the fix for the "naked domain problem". You could use this docker image on a ip/server and refer the A record of your DNS to it.
+This is the fix for the "naked domain problem". You could use this docker image on an ip/server and refer the A record of your DNS to it.
 
 Normally you would use wwwizer, but now you can place it on your own server.
 
