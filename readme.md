@@ -8,11 +8,7 @@ Normally you would use wwwizer, but now you can place it on your own server.
 
 # Step 1
 
-Adjust `/conf/nginx.conf` to your needs. So changed the redirects:
-
-```return 301 https://www.bc-enschede.nl$request_uri;```
-
-to
+Adjust `/conf/nginx.conf` to your needs. So change the redirects:
 
 ```return 301 https://www.yourdomain.com$request_uri;```
 
