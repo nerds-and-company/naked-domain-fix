@@ -28,6 +28,6 @@ Run docker compose:
 
 ```docker-compose up nginx```
 
-You can run a deamon instance to for docker with:
+You can run a daemon instance to for docker with:
 
 ```docker-compose up -d```
